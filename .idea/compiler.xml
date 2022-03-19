@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-kotlin.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-A_good_companion.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-Board_game_basics__Player.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-Fix_an_error.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Companion_object-Usage.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Currency_comparison.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Danger_level.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-The_rainbow_order.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enum-valueOf___method.main" target="11" />
+      <module name="Coffee_Machine.Topics-Floating-point_types-Difference_between_two_doubles.main" target="11" />
+      <module name="Coffee_Machine.Topics-Floating-point_types-Evaluate_an_expression.main" target="11" />
+      <module name="Coffee_Machine.Topics-Floating-point_types-Find_X.main" target="11" />
+      <module name="Coffee_Machine.Topics-Floating-point_types-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Floating-point_types-What_is_the_result.main" target="11" />
+      <module name="Coffee_Machine.Topics-If_expression-Healthy_sleep.main" target="11" />
+      <module name="Coffee_Machine.Topics-If_expression-Knights.main" target="11" />
+      <module name="Coffee_Machine.Topics-If_expression-Number_dividers.main" target="11" />
+      <module name="Coffee_Machine.Topics-If_expression-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-If_expression-Triangle.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Application_as_a_class.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Car.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Operations.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Member_functions-Volume_of_a_cube.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Busy_internship.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Christmas_tree.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Clothing_problem.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Heroes_and_villains.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Nested_and_inner_classes-Why_do_we_need_inner_classes.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Blocks_in_a_box.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Cell.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Library.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Manager.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Properties.main" target="11" />
+      <module name="Coffee_Machine.Topics-Object_declarations-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-City_population.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Correct_overriding.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Field_access.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Mutable_state.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Property_syntax.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Properties_accessors-Weather_comparison.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Cyclist.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Open_chest_in_Hogwarts.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Power_and_scopes.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-Unlucky_one.main" target="11" />
+      <module name="Coffee_Machine.Topics-Scopes-What_is_the_scope.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
